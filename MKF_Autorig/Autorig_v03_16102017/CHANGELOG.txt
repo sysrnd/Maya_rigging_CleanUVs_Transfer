@@ -1,0 +1,4 @@
+CHANGELOG:
+Autorig_v04_16102017:
+Arturo
+	Se cambio el attribute SpaceSwitch del pie a la rodilla

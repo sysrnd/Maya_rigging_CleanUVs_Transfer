@@ -1,0 +1,4 @@
+CHANGELOG:
+Autorig_v03_16102017:
+Arturo
+	Se escalaron en -1 los controles de la mano derecha en Y antes de los constraint para arreglar el mirror behaviour de los controles
