@@ -1,8 +1,0 @@
-CHANGELOG:
-Autorig_v02_16102017:
-Arturo
-	Rig_base:
-		Se agregó attributos de BS de algunas vocales
-
-	Rig Facial:
-		Se conectaron los BS de algunas vocales
