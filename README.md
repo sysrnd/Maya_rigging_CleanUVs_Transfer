@@ -1,0 +1,1 @@
+# Maya_rigging_CleanUVs_Transfer
